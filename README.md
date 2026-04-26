@@ -33,22 +33,22 @@ goal: Build creative and impactful software solutions
 
 ## 🛠️ Tech Arsenal
 
-### 💻 Languages
+<h3 align="center">💻 Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,kotlin,js,php,python&theme=dark" />
 </p>
 
-### 🎨 Frontend Development
+<h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite&theme=dark" />
 </p>
 
-### ⚙️ Backend & Database
+<h3 align="center">⚙️ Backend & Database</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" />
 </p>
 
-### 🔧 Tools & Platforms
+<h3 align="center">🔧 Tools & Platforms</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&theme=dark" />
 </p>
