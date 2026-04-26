@@ -67,8 +67,6 @@ goal: Build creative and impactful software solutions
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malithinduwara2003&theme=tokyonight" width="48%" />
 </p>
 
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=malithinduwara2003&theme=tokyonight&row=1&column=6" /> </p>
 
 # 📈 Contribution Graph
 
