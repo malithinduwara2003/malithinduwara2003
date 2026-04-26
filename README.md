@@ -22,6 +22,7 @@ role: Full-Stack Developer
 interests: Web Development, UI/UX Design, MERN Stack
 currently_learning: React, Node.js, MongoDB
 goal: Build creative and impactful software solutions
+```
 
 💡 Quick Facts
 🎓 Undergraduate Student at SLIIT University
