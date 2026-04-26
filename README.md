@@ -1,7 +1,7 @@
 <h1 align="center">👋 Explore My Tech World</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=42&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Malith+Induwara;Software+Engineer+%7C+Web+Developer;Full+Stack+Developer+%7C+UI%2FUX+Designer;MERN+Stack+Developer+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=42&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Malith+Induwara;Software+Engineer+%7C+Web+Developer; Full+Stack+Developer+%7C+UI%2FUX+Designer;MERN+Stack+Developer+%7C+Problem+Solver" />
 </p>
 
 <p align="center">
