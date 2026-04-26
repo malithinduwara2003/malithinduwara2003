@@ -30,18 +30,27 @@ goal: Build creative and impactful software solutions
 🎨 Interested in UI/UX Design
 🌱 Always learning new technologies
 
-🛠️ Tech Arsenal
-💻 Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,js,php,python" /> </p>
-🎨 Frontend Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite" /> </p>
-⚙️ Backend & Database
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" /> </p>
-🔧 Tools & Platforms
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" /> </p>
+## 🛠️ Tech Arsenal
 
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malithinduwara2003&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=malithinduwara2003&theme=tokyonight" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malithinduwara2003&layout=compact&theme=tokyonight" /> </p>
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,kotlin,js,php,python&theme=dark" />
+</p>
+
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite&theme=dark" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&theme=dark" />
+</p>
 
 
 🏆 GitHub Achievements
