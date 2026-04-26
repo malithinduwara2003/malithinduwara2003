@@ -70,9 +70,13 @@ goal: Build creative and impactful software solutions
 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=malithinduwara2003&theme=tokyonight&row=1&column=6" /> </p>
 
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=malithinduwara2003&theme=tokyo-night" /> </p>
+# 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/malithinduwara2003/malithinduwara2003/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
 🎯 Current Focus
 <table align="center"> <tr> <td align="center">
 🛠 Working On
