@@ -53,6 +53,19 @@ goal: Build creative and impactful software solutions
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&theme=dark" />
 </p>
 
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malithinduwara2003&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malithinduwara2003&theme=tokyonight&utcOffset=5.5" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malithinduwara2003&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malithinduwara2003&theme=tokyonight" width="48%" />
+</p>
 
 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=malithinduwara2003&theme=tokyonight&row=1&column=6" /> </p>
